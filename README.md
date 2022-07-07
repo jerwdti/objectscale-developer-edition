@@ -28,3 +28,5 @@ You may also want to scrap your minikube instance as well.
 minikube stop
 minikube delete
 ```
+
+.
